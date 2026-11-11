@@ -42,6 +42,6 @@ UNINTER
 
 ## Contact
 
-**LinkedIn:** [Professional Profile](https://www.linkedin.com/in/bruno-deguti-00b09472/)
+**LinkedIn:** [Bruno Ken Deguti](https://www.linkedin.com/in/bruno-deguti-00b09472/)
 
 **GitHub:** [github.com/brunodeguti](https://github.com/brunodeguti)
